@@ -15,7 +15,7 @@
         <!-- Eager Plugins Script-->
         <script src="//fast.eager.io/TWczeyfqCXgH.js"></script>
         <meta charset="UTF-8">
-        <title>REDHOLT  | MICROSOFT Annual Report</title>
+        <title>CROSSTAB  | Hiring Analysis</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <!-- Bootstrap 3.3.4 -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -72,22 +72,22 @@
                     <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
                         <span class="sr-only">Toggle navigation</span>
                     </a>
-                     <span class="logo-lg"> <font style="color:#E20D0D;font-size:35px;font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;"><b>RED</b>HOLT</font></span>
+                     <span class="logo-lg"> <font style="color:#E20D0D;font-size:35px;font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;"><b>CROSS</b>TAB</font></span>
                     <div class="navbar-custom-menu">
                         <ul class="nav navbar-nav">
                             <!-- User Account: style can be found in dropdown.less -->
                             <li class="dropdown user user-menu">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                     <img src="dist/img/user-160x160.jpg" class="user-image" alt="User Image"/>
-                                    <span class="hidden-xs">user</span>
+                                    <span class="hidden-xs">Abhishek</span>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <!-- User image -->
                                     <li class="user-header">
                                         <img src="dist/img/user-160x160.jpg" class="img-circle" alt="User Image" />
                                         <p>
-                                            user - REDHOLT
-                                            <small>MICROSOFT (Gold - Annual)</small>
+                                            user - CROSSTAB
+                                            <small>Hiring Analysis (Gold - Annual)</small>
                                         </p>
                                     </li>
                                     <!-- Menu Footer-->
@@ -137,7 +137,7 @@
                 <section class="content-header">
                     <ol class="breadcrumb">
                         <li><a href="dashboard.jsp"><i class="fa fa-dashboard"></i> Dashboard</a></li>
-                        <li class="active"> MICROSOFT Annual</li>
+                        <li class="active">Hiring Analysis</li>
                     </ol>
                 </section>
 
@@ -146,9 +146,9 @@
                     <!-- Main row -->
                     <div class="row">
                         <div class="col-lg-12" align="center">
-                             <font style="color:#E20D0D;font-size:45px;font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;"><b>RED</b>HOLT</font>
+                             <font style="color:#E20D0D;font-size:45px;font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;"><b>CROSS</b>TAB</font>
                             <h3 style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif">
-                                MICROSOFT Tracker
+                                Hiring Analysis
                                 <!--(<font style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif" id="reportDateLabel"></font>)-->
                                 (<font style="font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif">Year: 2016</font>)
                                 &nbsp;
@@ -847,7 +847,7 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <button id="modalClose1" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                <h4 class="modal-title">REDHOLT - Notification</h4>
+                                <h4 class="modal-title">CROSSTAB - Notification</h4>
                             </div>
                             <div class="modal-body">
                                 <h4 id="alertModalContent"></h4>
@@ -864,7 +864,7 @@
                 <div class="pull-right hidden-xs">
                     <b>Version</b> 0.1b
                 </div>
-                <strong>Copyright &copy; 2017-2018 <a href="https://www.groupnp.com">REDHOLT</a>.</strong> All rights reserved.
+                <strong>Copyright &copy; 2017-2018 <a href="https://www.groupnp.com">CROSSTAB</a>.</strong> All rights reserved.
             </footer>
 
         </div><!-- ./wrapper -->
